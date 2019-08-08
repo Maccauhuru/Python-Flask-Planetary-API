@@ -1,0 +1,13 @@
+__pycache__
+venv
+env
+.pytest_cache
+.coverage
+bin
+db
+include
+lib
+static
+templates
+*.db
+.idea
